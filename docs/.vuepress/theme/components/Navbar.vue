@@ -87,11 +87,11 @@ function css (el, property) {
 
 <style lang="scss">
 .navbar {
-  @apply bg-purple-600 shadow-md;
+  @apply bg-lighter-blue shadow-md;
 
 
   .links {
-    @apply bg-purple-600;
+    @apply bg-lighter-blue;
   }
 
   a, .site-name {
